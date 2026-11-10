@@ -1,7 +1,7 @@
 # Still Life Dictionary
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/JackieMeadows/Proposal.git
 
 ## Description
 People in the media and digital arts use objects all the time in their artworks, especially in still life artworks. This code is a dictionary of what different objects mean in the art world. By searching for an object, it will tell you what its meaning is and examples of how it has been used.
