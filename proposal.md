@@ -1,41 +1,47 @@
-# Still Life Dictionary
+# Tic-Tac-Toe
 
 ## Repository
 https://github.com/JackieMeadows/Proposal.git
 
 ## Description
-People in the media and digital arts use objects all the time in their artworks, especially in still life artworks. This code is a dictionary of what different objects mean in the art world. By searching for an object, it will tell you what its meaning is and examples of how it has been used.
+Tic-Tac-Toe game for two players.
 
 ## Features
-- Search
+- Player One and Player Two
 	- By typing in the object, you can search for it and its description
-- Description and examples
-	- Searching for an object will pull up its meaning in the art world and some examples.
-- Add 
-	- You can add more objects yourself to expand the dictionary
+- Visual board
+	- A picture of a tic-tac-toe board that updates with every play
+- Winning text
+	- Code that calculates who won and displays the text of who won
 
 ## Challenges
-- Learn about different object meanings
-- How to have a search feature
-- Find and include links for people to look at other objects to add to the dictionary
+- Find ways of updating the visual board as plays are made
+- Keeping track of who is winning based on possible combinations, and any other combination is a tie
+- Finding a way of resetting the "board"
 
 ## Outcomes
 Ideal Outcome:
-- People will look at a list of objects, select one, and be able to read a description of an object's meaning in the artistic world and examples of how it has been used
+- People run the code and hit a "Play" button for an empty tic-tac-toe board to appear
+- Players type a number from 1-8 that corresponds to a square on the board
+- After a game, the screen displays either "Player One Wins!", "Player Two Wins!", or "It's A Tie!"
+- Then players can hit a "Reset" button that resets the board, or a "Quit" button that exits the game
 
 Minimal Viable Outcome:
-- typing in the name of an object and the correct description and example comes up
+- People run the code and an empty tic-tac-toe board appears
+- Players type a number from 1-8 that corresponds with a square on the board
+- After a game, the screen displays either "Player One Wins!", "Player Two Wins!", or "It's A Tie!"
+- The game then ends after players hit "Quit"
 
 ## Milestones
 
 - Week 1
-  1. Research objects
-  2. create a list and a guideline for how the code will work
+  1. List and research all code needed to run the game
+  2. Design the look of the tic-tac-toe board and pieces
 
 - Week 2
-  1. Create documents for each object
-  2. Create code for documents to be printed in the terminal when summoned
+  1. Code working buttons and tic-tac-toe choices
+  2. Code winning combinations and images to go with the game
 
 - Week N (Final)
-  1. Create code to add new objects
-  2. Format the results to improve the look and readability
+  1. Improve images of the game
+  2. Test out the code and fix any bugs
